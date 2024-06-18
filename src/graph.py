@@ -7,3 +7,4 @@ def create_rag_graph():
     workflow = StateGraph()
     # Graph definition here
     return workflow.compile()
+# Jun 18
