@@ -17,3 +17,4 @@ Agents communicate via shared state, enabling:
 - Clear execution order
 - Easy debugging
 - Metrics tracking
+# Nov 12
