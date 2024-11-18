@@ -18,3 +18,4 @@ Agents communicate via shared state, enabling:
 - Easy debugging
 - Metrics tracking
 # Nov 12
+# Nov 18
